@@ -71,9 +71,6 @@ hgroup {grid-column: 1 / -1;}
 
 nav[aria-label="Social Media Links"] {
   --fc-anchor: var(--fc-secondary);
-}
-
-nav[aria-label="Social Media Links"] {
   ul {
     display: flex;
     gap: var(--space-sm);

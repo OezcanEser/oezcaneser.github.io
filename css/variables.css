@@ -43,8 +43,6 @@
   --fc-hvr-button: var(--clr-primary-400);
   --bg-hvr-button: var(--clr-accent-400);
 
-
-
   /* Container widths */
   --width-wide: 80rem;
   --width-regular: 75rem;
@@ -55,8 +53,6 @@
   --space-md: 1.5rem;
   --space-sm: 1rem;
   --space-xs: .5rem;
-
-
 
   /* Typography */
   /* Fallback fonts */
