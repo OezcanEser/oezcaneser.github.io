@@ -91,7 +91,7 @@ nav[aria-label="Social Media Links"] {
   gap: var(--space-md);
 }
 
-.experince,
+.experience,
 .contact {
   align-items: center;
   display: grid;
